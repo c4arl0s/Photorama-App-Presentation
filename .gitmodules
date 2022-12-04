@@ -1,0 +1,3 @@
+[submodule "20WebServices_PhotoramaApp"]
+	path = 20WebServices_PhotoramaApp
+	url = git@github.com:c4arl0s/20WebServices_PhotoramaApp.git

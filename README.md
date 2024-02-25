@@ -1,5 +1,11 @@
 # [Go back to iOS Apps](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 
+In order to update an existing Git submodule execute: (You migh need permissions from Owner)
+
+```console
+ git submodule update --remote --merge
+```
+
 # [Photorama App](https://github.com/c4arl0s/20WebServices_PhotoramaApp#1-starting-the-photorama-application)
 
 Photorama App make a web service request to get interesting photos from Flickr. 

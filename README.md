@@ -30,3 +30,16 @@ Photorama App make a web service request to get interesting photos from Flickr.
 14. [x] [Bronze Challenge: Printing the Response Information](https://github.com/c4arl0s/20WebServices_PhotoramaApp#14-bronze-challenge-printing-the-response-information)
 15. [x] [Silver Challenge: Fetch Recent Photos from Flickr](https://github.com/c4arl0s/20WebServices_PhotoramaApp#15-silver-challenge-fetch-recent-photos-from-flickr)
 16. [x] [For the More Curious: HTTP](https://github.com/c4arl0s/20WebServices_PhotoramaApp#16-for-the-more-curious-http)
+
+# [CollectionView for PhotoramaApp - Content](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#go-back-to-content)
+
+1. [x] [1. Displaying the Grid](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#1-displaying-the-grid)
+2. [x] [2. Collection View Data Source](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#2-collection-view-data-source)
+3. [x] [3. Customizing the Layout](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#3-customizing-the-layout)
+4. [x] [4. Creating a Custom UICollectionViewCell](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#4-creating-a-custom-uicollectionviewcell)
+5. [x] [5. Downloading the Image Data](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#5-downloading-the-image-data)
+6. [x] [6. Extensions](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#6-extensions)
+7. [x] [7. Image caching](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#7-image-caching)
+8. [x] [8. Navigating to a Photo](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#8-navigating-to-a-photo)
+9. [ ] [9. Silver Challenge: Updated Item Sizes](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#9-silver-challenge-updated-item-sizes)
+10. [ ] [10. Golden Challenge: Creating a Custom Layout](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#10-golden-challenge-creating-a-custom-layout)

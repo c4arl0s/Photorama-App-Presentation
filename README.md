@@ -43,3 +43,7 @@ Photorama App make a web service request to get interesting photos from Flickr.
 8. [x] [8. Navigating to a Photo](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#8-navigating-to-a-photo)
 9. [ ] [9. Silver Challenge: Updated Item Sizes](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#9-silver-challenge-updated-item-sizes)
 10. [ ] [10. Golden Challenge: Creating a Custom Layout](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#10-golden-challenge-creating-a-custom-layout)
+
+|                                                                                                                       |                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| <img width="695" alt="Image" src="https://github.com/user-attachments/assets/95b1fbfa-1014-4e3f-9b84-c2c5d0afc491" /> | <img width="695" alt="Image" src="https://github.com/user-attachments/assets/ada6e40a-21f3-428a-9a84-003b37742940" /> |
